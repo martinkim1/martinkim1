@@ -47,7 +47,7 @@
 <!-- 기술 및 도구 -->
 <h2 align="center">&nbsp;***My working tools...***</h2>
 <p align="left">
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+  <code> <img height="50" src="https://images.velog.io/post-images/doondoony/d72cb4c0-cfbd-11e8-b93f-579a7dec4e42/1200px-Python.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
