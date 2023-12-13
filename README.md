@@ -10,9 +10,9 @@
 
 <p align="center"> 
   <samp>
-    「 I'm a beginner developer studying AI. 」
+    🧑‍💻 I'm a beginner developer studying AI.
     <br>
-    「 My hobbies are reading and writing. I like self-help books and behavioral psychology and try to keep a diary once a day. 」
+    🎓 I'm studying artificial intelligence software at Dongyang mirae University in korea.
   </samp>
 </p>
 
@@ -36,6 +36,8 @@
   <samp>
     😀 &emsp; My favorite programming languages are Python and Java..<br/>
     👑 &emsp; It is my dream to do business using ai..
+    💪 &emsp; My hobbies are reading and writing. I like self-help books and behavioral psychology and try to keep a diary once a day...<br/>
+    👶 &emsp; age : 23
   </samp>
 </p>
 
