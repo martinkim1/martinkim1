@@ -34,8 +34,8 @@
 <h2 align="center">About me</h2>
 <p>
   <samp>
-    ✌️ &emsp; My favorite programming languages are Python and Java..<br/>
-    ❤️ &emsp; It is my dream to do business using ai..
+    😀 &emsp; My favorite programming languages are Python and Java..<br/>
+    👑 &emsp; It is my dream to do business using ai..
   </samp>
 </p>
 
