@@ -33,7 +33,7 @@
 <!-- 나에 대해 섹션 -->
 <h2 align="center">About me</h2>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" />
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   <samp>
     😀 &emsp; My favorite programming languages are Python and Java..<br/>
     👑 &emsp; It is my dream to do business using ai..<br/>
