@@ -1,23 +1,16 @@
 <!-- 방문자 카운터 -->
-<p align="center">
+<p align="left">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKdyeon00&count_bg=%23FF6E96&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
 </p>
 
 <!-- 소개 섹션 -->
-<h3 align="center">
+<h3 align="left">
   <samp>&gt; Hello!, I'm <b>Dong Yeon Kim</b>.</samp>
 </h3>
 
-<p align="center"> 
-  <samp>
-    🧑‍💻 I'm a beginner developer studying AI.
-    <br>
-    🎓 I'm studying artificial intelligence software at Dongyang mirae University in korea.
-  </samp>
-</p>
-
 <!-- 소셜 미디어 및 웹사이트 링크 -->
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
  <a href="https://blog.naver.com/kdyeon_00" target="_blank">
   <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
  </a>
@@ -28,6 +21,15 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
  </a>
 </p>
+
+<p align="center"> 
+  <samp>
+    🧑‍💻 I'm a beginner developer studying AI.
+    <br>
+    🎓 I'm studying artificial intelligence software at Dongyang mirae University in korea.
+  </samp>
+</p>
+
 <br/>
 
 <!-- 나에 대해 섹션 -->
