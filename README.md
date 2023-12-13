@@ -5,14 +5,14 @@
 
 <!-- 소개 섹션 -->
 <h3 align="center">
-  <samp>&gt; 안녕하세요!, 저는 <b>김동연</b>입니다.</samp>
+  <samp>&gt; Hello!, I'm <b>Dong Yeon Kim</b>.</samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    「 저는 AI를 공부하는 초보 개발자입니다. 」
+    「 I'm a beginner developer studying AI. 」
     <br>
-    「 취미는 독서와 글쓰기이며, 자기계발서와 행동심리학을 좋아합니다. 매일 일기를 씁니다. 」
+    「 My hobbies are reading and writing. I like self-help books and behavioral psychology and try to keep a diary once a day. 」
   </samp>
 </p>
 
@@ -31,7 +31,7 @@
 <br/>
 
 <!-- 나에 대해 섹션 -->
-<h2 align="center">저에 대해</h2>
+<h2 align="center">About me</h2>
 <p>
   <samp>
     ✌️ &emsp; 파이썬과 자바를 가장 좋아하는 프로그래밍 언어로 삼고 있습니다.<br/>
@@ -42,7 +42,7 @@
 <br/>
 
 <!-- 기술 및 도구 -->
-<h2 align="center">기술 및 도구</h2>
+<h2 align="center">Technology and Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -52,7 +52,7 @@
 <br/>
 
 <!-- GitHub 통계 -->
-<h2 align="center">GitHub 통계</h2>
+<h2 align="center">GitHub Statistics</h2>
 <p align="center">
   <a href="https://github.com/Kdyeon00">
     <img src="https://github-readme-stats.vercel.app/api?username=Kdyeon00&show_icons=true&theme=radical"/>
