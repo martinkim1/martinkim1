@@ -66,7 +66,7 @@
 </a>
 </p>
 <p align="center">
-  <a href="https://github.com/JD12321">
+  <a href="https://github.com/martinkim1">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martinkim1&theme=alogolia" />
   </a>
 </p>
