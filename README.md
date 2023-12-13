@@ -34,8 +34,8 @@
 <h2 align="center">About me</h2>
 <p>
   <samp>
-    ✌️ &emsp; 파이썬과 자바를 가장 좋아하는 프로그래밍 언어로 삼고 있습니다.<br/>
-    ❤️ &emsp; AI를 활용한 사업을 하는 것이 꿈입니다.
+    ✌️ &emsp; My favorite programming languages are Python and Java..<br/>
+    ❤️ &emsp; It is my dream to do business using ai..
   </samp>
 </p>
 
@@ -44,6 +44,8 @@
 <!-- 기술 및 도구 -->
 <h2 align="center">Technology and Tools</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mojo-000000?style=for-the-badge"/>
