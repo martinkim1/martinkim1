@@ -4,9 +4,7 @@
 </p>
 
 <!-- 소개 섹션 -->
-<h3 align="left">
-  <samp>&gt; Hello!, I'm <b>Dong Yeon Kim</b>.</samp>
-</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
 
 <!-- 소셜 미디어 및 웹사이트 링크 -->
 <h3 align="left">Connect with me:</h3>
@@ -33,7 +31,7 @@
 <br/>
 
 <!-- 나에 대해 섹션 -->
-<h2 align="center">About me</h2>
+<h2 align="center">&nbsp;***About me ....</h2>
 <p>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   <samp>
@@ -47,13 +45,15 @@
 <br/>
 
 <!-- 기술 및 도구 -->
-<h2 align="center">Technology and Tools</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mojo-000000?style=for-the-badge"/>
+<h2 align="center">&nbsp;***My working tools...***</h2>
+<p align="left">
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
 </p>
 
 <br/>
