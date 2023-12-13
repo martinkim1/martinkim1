@@ -33,11 +33,12 @@
 <!-- 나에 대해 섹션 -->
 <h2 align="center">About me</h2>
 <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" />
   <samp>
     😀 &emsp; My favorite programming languages are Python and Java..<br/>
-    👑 &emsp; It is my dream to do business using ai..
+    👑 &emsp; It is my dream to do business using ai..<br/>
     💪 &emsp; My hobbies are reading and writing. I like self-help books and behavioral psychology and try to keep a diary once a day...<br/>
-    👶 &emsp; age : 23
+    👶 &emsp; age : 23<br/>
   </samp>
 </p>
 
