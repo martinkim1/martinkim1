@@ -15,7 +15,7 @@
 </p>
 
 <!-- 소셜 미디어 및 웹사이트 링크 -->
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🤝🏻 Connect with me:</h3>
 <p align="center">
  <a href="https://blog.naver.com/kdyeon_00" target="_blank">
   <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
@@ -61,13 +61,8 @@
 <!-- GitHub 통계 -->
 <h2 align="center">GitHub Statistics</h2>
 <p align="center">
-  <a href="https://github.com/Kdyeon00">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kdyeon00&show_icons=true&theme=radical"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Kdyeon00">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdyeon00&layout=compact&theme=radical"/>
-  </a>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
