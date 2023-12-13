@@ -63,6 +63,6 @@
 <a href="https://github.com/martinkim1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=martinkim1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=martinkim1&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martinkim1&theme=alogolia" />
+  <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martinkim1&theme=alogolia" />-->
 </a>
 </p>
