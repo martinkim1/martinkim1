@@ -4,7 +4,7 @@
 </p>
 
 <!-- 소개 섹션 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dong Yeon Kim </h1>
 
 <!-- 소셜 미디어 및 웹사이트 링크 -->
 <h3 align="left">Connect with me:</h3>
