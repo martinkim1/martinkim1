@@ -15,8 +15,8 @@
 </p>
 
 <!-- 소셜 미디어 및 웹사이트 링크 -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
  <a href="https://blog.naver.com/kdyeon_00" target="_blank">
   <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
  </a>
