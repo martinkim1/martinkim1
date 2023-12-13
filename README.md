@@ -6,6 +6,14 @@
 <!-- 소개 섹션 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Dong Yeon Kim </h1>
 
+<p align="center"> 
+  <samp>
+    🧑‍💻 I'm a beginner developer studying AI.
+    <br>
+    🎓 I'm studying artificial intelligence software at Dongyang mirae University in korea.
+  </samp>
+</p>
+
 <!-- 소셜 미디어 및 웹사이트 링크 -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,18 +28,10 @@
  </a>
 </p>
 
-<p align="center"> 
-  <samp>
-    🧑‍💻 I'm a beginner developer studying AI.
-    <br>
-    🎓 I'm studying artificial intelligence software at Dongyang mirae University in korea.
-  </samp>
-</p>
-
 <br/>
 
 <!-- 나에 대해 섹션 -->
-<h2 align="center">&nbsp;***About me ....</h2>
+<h2 align="left">&nbsp;***About me ....</h2>
 <p>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   <samp>
