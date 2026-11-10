@@ -9,8 +9,6 @@
 <p align="center"> 
   <samp>
     🧑‍💻 I'm a beginner developer studying AI.
-    <br>
-    🎓 I'm studying artificial intelligence software at Dongyang mirae University in korea.
   </samp>
 </p>
 
